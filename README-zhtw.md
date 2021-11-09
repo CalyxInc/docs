@@ -10,7 +10,7 @@ Calyx API 文件使用 Swagger 做為模版，而這份文件是為了讓第一�
 如果您已經有 Calyx 產品正在測試，Calyx 公司創建給您的帳戶資料是在 production 。這部份已有討論之後會建立 play ground 或沙盒環境。目前請先使用 production 環境測試您的產品。
 
 ## 使用說明
-打開 [Calyx API](https://dashboard.calyxtechs.com/api-docs)
+打開 [Calyx API(production)](https://dashboard.calyxtechs.com/api-docs) or [stage](https://test.calyxtechs.com/api-docs)
 
 ### 確認環境
 
